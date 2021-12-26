@@ -16,7 +16,7 @@ This VBO used python 3.9 version.
  ```
 In Blueprism collection:
 
- ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+ ![picture alt](https://raw.githubusercontent.com/BlueprismWorld/Run-python-in-Blueprism/main/params.JPG "Title is optional")
  
 Above collection we can pass params to python function, param name do not have to be same but order is manadtory, given order params will passed to python function.<br>
 After excetion of python script code output will be:
@@ -29,6 +29,6 @@ After excetion of python script code output will be:
 # Note:
    First call IntialisePython action before using other actions from the Python VBO.
    
-# How this it works.
+# How it works.
 In Python_Interop.dll file embeded python standared library and python core files, when ever run IntialisePython action embeded core files will be extracted to AppData/Local folder or given path. Once extracted core files set the path where core files are extracted. and load the core files into memory.
 
