@@ -1,14 +1,13 @@
 # Python VBO
-By using this VBO we can run python code directly in blueprism without installing python in the user machine.
-This VBO used python 3.9 version.
+By using this VBO we can run python code directly in blueprism.
 
 # Instructions
-1. Place the Python_Interop.dll, Microsoft.CSharp.dll to Blueprism installed folder.
+1. Place the Python.Runtime.dll to Blueprism installed folder.
 2. Import the .bprelese file.
 3. In process provided example usage of each action of Python VBO.
 
 # Features:
-1. Run python script or .py files without install python in the system.<br>
+1. Run python script or .py files.<br>
 2. Install or Uninstall modules from https://pypi.org/ in VBO only.<br>
 3. Get installed modules List.<br>
 4. Use mixer of python and .Net modules/libraries in python code.<br>
