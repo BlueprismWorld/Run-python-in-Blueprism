@@ -2,9 +2,10 @@
 By using this VBO we can run python code directly in blueprism.
 
 # Instructions
-1. Place the Python.Runtime.dll to Blueprism installed folder.
-2. Import the .bprelese file.
-3. In process provided example usage of each action of Python VBO.
+1. Download zip file and extract.
+2. Place the Python.Runtime.dll to Blueprism installed folder.
+3. Import the .bprelese file.
+4. In process provided example usage of each action of Python VBO.
 
 # Features:
 1. Run python script or .py files.<br>
